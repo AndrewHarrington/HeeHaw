@@ -1,5 +1,5 @@
 //from 1 through 1000
-for (var i = 1; i <= 1000; i++) {
+for (var i = 1; i <= 100; i++) {
     //check for Hee
     if(i%3 == 0 && i%5 != 0){
         console.log("Hee");
